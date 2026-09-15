@@ -5,7 +5,7 @@ Docentes: Augusto César Oliveira e Domingos Savio de Oliveira Santos Junior.
 
 **Disciplina: Paradigmas de Linguagens de Programação.**
 
-*Curso: 5º Sistemas de Informação*
+*Curso: 5º período de Sistemas de Informação*
 
 ## RESPOSTAS  
 ### 1. Por que Zoologico tem uma lista de animais, em vez de ser uma lista?
