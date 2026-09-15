@@ -1,9 +1,8 @@
-# Docentes: Augusto César Oliveira e Domingos Savio de Oliveira Santos Junior.
-
-# Discente: Deborah Adrião Cavalcanti Silva. 
-
-## Disciplina: Paradigmas de Linguagens de Programação.
-### Curso: 5º Sistemas de Informação
+# Sistema de Cadastro do Zoológico
+Docentes: Augusto César Oliveira e Domingos Savio de Oliveira Santos Junior.
+**Discente: Deborah Adrião Cavalcanti Silva.**
+**Disciplina: Paradigmas de Linguagens de Programação.**
+*Curso: 5º Sistemas de Informação*
 
 ## RESPOSTAS  
 ### 1. Por que Zoologico tem uma lista de animais, em vez de ser uma lista?
